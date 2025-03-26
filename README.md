@@ -86,8 +86,6 @@ Random Forest
 
 Gradient Boosting
 
-Neural Networks
-
 Perform hyperparameter tuning to optimize performance.
 
 5. Model Evaluation
@@ -102,15 +100,6 @@ R-Squared (R²)
 
 Compare models and select the best performer.
 
-Results
-
-Learners should aim to achieve:
-
-✅ Accurate prediction model for household power consumption.✅ Clear insights into key factors influencing energy usage.✅ Visualizations showcasing energy trends and predictive performance.
-
-Project Evaluation Metrics
-
-📌 Root Mean Squared Error (RMSE) – Measures prediction accuracy.📌 Mean Absolute Error (MAE) – Evaluates average error magnitude.📌 R-Squared (R²) – Measures model’s explanatory power.📌 Feature Importance Analysis – Identifies key factors influencing energy consumption.📌 Visualization Quality – Assesses effectiveness of graphical insights.
 
 Technical Tags
 
